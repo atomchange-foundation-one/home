@@ -1,9 +1,9 @@
 # home
 
-Please check [Wiki](https://github.com/freeteal-foundation-one/wiki) for general project description.
+Please check [Wiki](https://github.com/atomchange-foundation-one/wiki) for general project description.
 
 Communication channels in telegram:
 
-[FreeTeal General Chat (English)](https://t.me/joinchat/A3MxZkOxrfzR4vL3BQ0WdQ)
+[AtomChange General Chat (English)](https://t.me/AtomChangeGeneral)
 
-[FreeTeal General Chat (Russian)](https://t.me/joinchat/A3MxZkONjP4sKWxPJBY1Lg)
+[AtomChange General Chat (Russian)](https://t.me/AtomChangeRuGeneral)
