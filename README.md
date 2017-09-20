@@ -1,6 +1,6 @@
 # home
 
-Please check [Wiki](https://github.com/atomchange-foundation-one/wiki) for general project description.
+Please check [Wiki](https://github.com/atomchange/wiki) for general project description.
 
 Communication channels in telegram:
 
